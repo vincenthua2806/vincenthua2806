@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Huy Vu, or you may call me Vincent
 - 👀 I’m interested in Cybersecurity and AI
 - 🌱 I’m currently learning Bachelor of IT (Networking and Cybersecurity) at UniSA
-- - 📫 How to reach me? Via email or LinkedIn
+- 📫 How to reach me? Via email or LinkedIn
 <!--- - 💞️ I’m looking to collaborate on ...--->
 
 
